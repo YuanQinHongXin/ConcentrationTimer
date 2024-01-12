@@ -1,1 +1,1 @@
-这个代码创建了一个简单的番茄工作法时钟，它会在每个工作时间段后自动切换到休息时间段。默认的工作时间段是25分钟，休息时间段是5分钟，每完成3个工作时间段后会有一个长休息时间段为15分钟。在控制台上，它会显示剩余时间，并发出结束时钟时的声音。你可以根据自己的需求进行调整和扩展。
+This code creates a simple tomato clock that automatically switches to a rest period after each work period. The default work period is 25 minutes, the rest period is 5 minutes, and after every 3 work periods there will be a long rest period of 15 minutes. On the console, it will display the remaining time and make a sound when ending the clock. You can adjust and expand it to suit your needs.
